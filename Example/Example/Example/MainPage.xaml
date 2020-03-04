@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Example.MainPage">
+
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Grid>
+            <Image Source="init.png" HeightRequest="1" WidthRequest="1"  />
+            <StackLayout Grid.Row="1" Padding="30,20">
+                <Entry Placeholder="Email"></Entry>
+                <Entry Placeholder="Password" IsPassword="True"></Entry>
+                <Button x:Name="home" Clicked="home_Clicked" Text="Login" BackgroundColor="#1E91D6" BorderWidth="20" CornerRadius="20" Opacity="0.5" TextColor="White"></Button>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="¿Recuperar contraseña?"></Label>
+                    <Label Text="Registrarse" HorizontalOptions="EndAndExpand" FontAttributes="Bold"></Label>
+                </StackLayout>
+            </StackLayout>
+        </Grid>
+    </StackLayout>
+
+</ContentPage>

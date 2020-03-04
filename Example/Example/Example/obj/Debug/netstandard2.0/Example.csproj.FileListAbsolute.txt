@@ -1,0 +1,17 @@
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\bin\Debug\netstandard2.0\Example.deps.json
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\bin\Debug\netstandard2.0\Example.dll
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\bin\Debug\netstandard2.0\ref\Example.dll
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\bin\Debug\netstandard2.0\Example.pdb
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\Example.csprojAssemblyReference.cache
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\Example.AssemblyInfoInputs.cache
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\Example.AssemblyInfo.cs
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\Example.dll
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\ref\Example.dll
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\Example.pdb
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\Views\MyPage01.xaml.g.cs
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\Views\MyPage02.xaml.g.cs
+C:\Users\Cristopher Zaiz\Desktop\XamarinApp\Example\Example\Example\obj\Debug\netstandard2.0\Views\MyPage03.xaml.g.cs
